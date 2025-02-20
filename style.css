@@ -1,0 +1,22 @@
+body {
+    background-color: antiquewhite;
+}
+
+div {
+    margin: 10px 300px;
+}
+
+table,
+thead,
+th,
+tr,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    padding-right: 45px;
+}
+
+footer {
+    margin: auto;
+}
